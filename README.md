@@ -5,7 +5,7 @@ UDP server for game [sintine](https://github.com/sintine-game/sintine).
 ## Installation
 
 ```bash
-git clone
+git clone https://github.com/sintine-game/liman
 cd liman
 ```
 
